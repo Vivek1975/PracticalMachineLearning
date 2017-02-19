@@ -90,10 +90,5 @@ The 20 predicted outcomes on the 20 test cases are as follows:
 ```{r}
 predict(modelFit,testPCA)
 ```
-## Including Plots
-This plot displays errors vs the number of trees in random forests
 
-```{r pressure, echo=FALSE}
-plot(modelFit$finalModel)
-```
 

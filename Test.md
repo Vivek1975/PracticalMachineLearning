@@ -161,8 +161,5 @@ predict(modelFit,testPCA)
 ##  [1] B A B A A E D B A A A C B A E E A B B B
 ## Levels: A B C D E
 ```
-## Including Plots
-This plot displays errors vs the number of trees in random forests
 
-![](Test_files/figure-html/pressure-1.png)<!-- -->
 
